@@ -1,10 +1,5 @@
 blender import files
 
-find the python file needed
-its in evanmann and its called 
-
-import_videoclip_blender_5_loopdir_getframe_context_add_setplayhead.py
-
 
 adjust the source media folder so there are no more than 20 files per folder, otherwise you'll get a too many files open error and it won't get them all
 
